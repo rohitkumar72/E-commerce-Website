@@ -15,7 +15,7 @@ Welcome to the **Django Complete Ecommerce** project! This application provides 
 - **Backend:** Django
 - **Database:** postgresql
 - **Frontend:** HTML, CSS, JavaScript
-
+- **Api:** Stripe API
 ## Getting Started
 
 ### Prerequisites
