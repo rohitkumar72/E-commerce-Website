@@ -1,0 +1,38 @@
+E-SH0P 
+E-Commerce website 
+⚡ Scalable Django-Based API for Modern Online Shopping
+🌟 Overview
+
+This project is a production-ready E-Commerce backend system built with Django, designed to handle real-world shopping workflows efficiently.
+
+It focuses on clean architecture, scalability, and performance, making it suitable for enterprise-level applications and backend engineering roles.
+
+🧠 Core Highlights
+
+✨ Modular Architecture (apps-based structure)
+⚡ High-performance API design
+🔐 Secure authentication system
+📦 Efficient product & order management
+🧩 Easily extendable & production-ready
+
+🛠️ Tech Stack
+Layer	Technology
+Backend	Django
+API Layer	Django REST Framework
+Database	SQLite (Dev) / PostgreSQL (Production)
+Tools	Git, GitHub
+
+🚀 Features
+🔐 Authentication
+User Registration & Login
+Secure password handling
+🛍️ Product Management
+Product listing
+Category-based filtering
+Product detail APIs
+🛒 Cart System
+Add / Remove items
+Dynamic cart updates
+📦 Order System
+Order creation
+Order tracking (extendable)
